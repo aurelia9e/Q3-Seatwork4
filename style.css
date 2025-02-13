@@ -1,0 +1,84 @@
+body {
+	background-color: #50723C;
+	color: #ADEEE3;
+	font-family: monospace;
+
+}
+
+.container {
+	background-color: #ffba08;
+	color: #370617;
+	padding: 10px;
+}
+
+.container-fluid {
+	background-color: gray;
+	max-width: 500px;
+	max-length: 250px;
+	padding: 25px;
+	border: 1px solid black;
+	outline: 5px solid black;
+}
+
+.col-mt-4 {
+	max-width: 100;
+	max-height: 100;
+}
+img {
+	max-height: 200px;
+	margin-bottom: 10px;
+}
+
+.btn-1 {
+	background-color:#A30015;
+	color: #FAFAFF;
+	width: 100px;
+	height: 50px;
+	border-radius: 50px;
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+
+.btn-2 {
+	background-color:#1E2749;
+	color: #E4D9FF;
+	width: 100px;
+	height: 50px;
+	border-radius: 30px;
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+
+.btn-3 {
+	background-color:#E7EBC5;
+	color: #273469;
+	width: 100px;
+	height: 50px;
+	border-radius: 30px;
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+
+.btn-4 {
+	background-color:#A30015;
+	color: #FAFAFF;
+	width: 100px;
+	height: 50px;
+	border-radius: 30px;
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+
+.btn-5 {
+	background-color:black;
+	color: white;
+	width: 100px;
+	height: 50px;
+	border-radius: 30px;
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+
+.thing {
+	align-content: center;
+}
